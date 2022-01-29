@@ -28,7 +28,6 @@ const ContainerTable = ({ coins, search }) => {
   return (
     <TableContainer
       sx={{
-        overflow: "hidden",
         mt: 2,
         boxShadow: 4,
         borderRadius: 3,
